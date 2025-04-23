@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(33, 33, 33);
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+
+#box {
+    flex-direction: row;
+}
+
